@@ -9,3 +9,4 @@ delete branch locally and globally.
 
  remote:
  - git push origin --delete <branch_name>
+
