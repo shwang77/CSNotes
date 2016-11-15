@@ -1,0 +1,4 @@
+
+
+  chain commands using ;
+   example:  git add . ; git commit -m "<stuff>" ; git push
