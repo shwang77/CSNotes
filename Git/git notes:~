@@ -5,7 +5,6 @@ delete branch locally and globally.
 
  locally:
  - git branch -d branch_name
- - git branch -D branch_name  (force)
 
  remote:
  - git push origin --delete <branch_name>
