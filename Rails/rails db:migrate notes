@@ -2,3 +2,10 @@ rails db:migrate notes
 
 drop table from console
 ActiveRecord::Migration.drop_table(:users)
+
+
+db migration stuff
+
+  - db:drop
+  - db:setup
+  - db:reset - drop and resetup 

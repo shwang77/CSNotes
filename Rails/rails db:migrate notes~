@@ -1,0 +1,4 @@
+rails db:migrate notes
+
+drop table from console
+ActiveRecord::Migration.drop_table(:users)
